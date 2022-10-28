@@ -1,0 +1,6 @@
+[submodule "blackbeard-server"]
+	path = blackbeard-server
+	url = https://github.com/matthewlohl/blackbeard-server
+[submodule "Blackbeard-Client"]
+	path = Blackbeard-Client
+	url = https://github.com/Babole/Blackbeard-Client
